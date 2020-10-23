@@ -16,9 +16,9 @@ Si bien es cierto que gracias a toda la información y tecnología a la que tene
 
 ## Ventajas de las aulas virtuales
 
-Como mencioné anteriormente, las desventajas que propicia el ambiente virtual golperán a un gran sector de la población que desgraciadamente no cuenta con el apoyo ni con los recursos, sin embargo, quienes tienen el privilegio de poder experimentar el ambiente virtual y los recursos para lograrlo, pueden explotar al máximo las ventajas que este ofrece:
+Las desventajas que propicia el ambiente virtual golperán a un gran sector de la población que desgraciadamente no cuenta con el apoyo ni con los recursos, sin embargo, quienes tienen el privilegio de poder experimentar el ambiente virtual y los recursos para lograrlo, pueden explotar al máximo las ventajas que este ofrece:
 
-- **Elimina el desplazamiento de los participantes:** es una realidad que muchos alumnos, sobre todo aquellos que asisten a Universidad, provienen de otros estados externos al lugar en el que estudian, por lo que el confinamiento en casa con clases a distancia les permite recuperar el gasto diario que invertían en el transporte público, dejando de suponer un gasto más dentro de la economía familiar. Este punto aplica tanto para alumnos como para maestros que suelen tomar el transporte público o que necesitan tomar múltiples medios para llegar a su institución de trabajo.
+- **Elimina el desplazamiento de los participantes:** muchos alumnos, sobre todo aquellos que asisten a Universidad, provienen de otros estados externos al lugar en el que estudian, por lo que el confinamiento en casa con clases a distancia les permite recuperar el gasto diario que invertían en el transporte público, dejando de suponer un gasto más dentro de la economía familiar. Este punto aplica tanto para alumnos como para maestros que suelen tomar el transporte público o que necesitan tomar múltiples medios para llegar a su institución de trabajo.
 
 - **Distribuye la información de manera rápida, para todos los participantes:** la comunicación que se ha tenido que desarrollar para la implementación de la modalidad online supone una mejor interacción entre los alumnos y el profesor, ya que la comunicación es instantánea y exacta (esto claro, cuando el profesor y el alumno expresan sus ideas y pensamientos correctamente y de manera organizada).
 
@@ -26,7 +26,17 @@ Como mencioné anteriormente, las desventajas que propicia el ambiente virtual g
 
 - **Variedad de recursos didácticos:** como es bien sabido, en internet podemos encontrar información de todo tipo y esta, combinada con los recursos didácticos de los profesores, puede suponer una ventaja en el aprendizaje ya que no sólo crea una red que comparte información, sino que la amplía y la orilla a ir más allá.
 
+## Impacto de las clases virtuales
 
+Como se mencionó a lo largo de este artículo, la situación (económica, social, etc.) en la que vive cada familia mexicana es sumamente distinta a la de las demás, por lo que nos es imposible comparar, imaginar o medir la magnitud con la que las clases por computadora impactaron en sus vidas. Aunado a la situación social de las familias, es importante mencionar que a raíz del confinamiento, la salud mental de los mexicanos se ha visto cada día más vulnerable, de manera que la modalidad en línea no sólo está relacionada al conocimiento o al área económica, sino también a las emociones y situaciones mentales por las que los estudiantes, maestros o personal educativo (y no educativo, claro) están pasando.
+
+Así pues, tomar conciencia es crucial para comprender 2 cosas de gran importancia:
+
+1. No todas las personas tienen las mismas oportunidades, mucho menos ahora, y esto no sólo tiene que ver con el acceso a los recursos, sino a su situación general que va más allá del ámbito económico.
+
+2. No todos los niños, adolescentes y maestros lograrán adaptarse a esta nueva realidad virtual de sus clases, ya que la manera en la que las personas aprenden y "absorben el conocimiento" es distinta para todos los individuos.
+
+Las clases virtuales ofrecen muchas facilidades y nos permiten realizar actividades que quizás antes no podíamos por diversas razones, sin embargo, no hay que perder de vista que no todos somos iguales y que, si a nosotros no nos afectó tanto el cambio esto no quiere decir que la situación será igual para el resto de nuestros compañeros de trabajo, del aula y compatriotas en general.
 
 
 ### Recursos
