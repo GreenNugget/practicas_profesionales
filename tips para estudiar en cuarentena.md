@@ -8,7 +8,7 @@ Desde el punto del alumnado, personalmente considero que es más fácil empatiza
 
 Como lo mencionaba hace un párrafo, el comprender cuáles son las necesidades de los estudiantes podría servirle a los profesores o inclusive al sistema educativo en general para adaptar los planes de estudio a esta "nueva normalidad" que ya estamos atravesando ya que, si bien queda claro que no se pueden conseguir métodos que satisfagan las necesidades de aprendizaje y de estudio para cada uno de los miles de estudiantes, sí se pueden tomar en cuenta por niveles educativos para comprender qué es lo que mejor se adapta o cómo se pueden mejorar los procesos que ya se tienen en marcha con el fin de que los estudiantes puedan absorber el conocimiento necesario a la vez que siguen el nivel educativo que les corresponde.
 
-A pesar de lo bonito que suena el ajuste que podría tener el sistema educativo, creo que también queda claro que esto no es algo que deba decidirse a la ligera, ya que debe implicar muchísimas cosas que nosotros/as, como estudiantes, desconocemos. Hay miles de situaciones diferentes que deben tomarse en cuenta y, más allá de eso, miles de complicaciones nuevas que podrían surgir, pero bueno, soñar no cuesta nada en un mundo que cambió por completo de la noche la mañana...literalmente...
+A pesar de lo bonito que suena el ajuste que podría tener el sistema educativo, creo que también queda claro que esto no es algo que deba decidirse a la ligera, ya que debe implicar muchísimas cosas que nosotros/as, como estudiantes, desconocemos. Hay miles de situaciones diferentes que deben tomarse en cuenta y, más allá de eso, miles de complicaciones nuevas que podrían surgir, pero bueno, soñar no cuesta nada en un mundo que cambió por completo de la noche a la mañana...literalmente...
 
 ## ¿Cómo lo están viviendo los estudiantes?
 
@@ -25,7 +25,11 @@ Los cambios que ha experimentado la comunidad estudiantil han variado de acuerdo
 
 De esta manera, yo considero que los problemas principales pueden aguparse como sigue:
 - Tomar apuntes no es lo mismo, pues las clases en línea pueden ser más apresuradas que antes, de modo que mantener el ritmo de la clase a la vez que se realizan apuntes puede resultar en una tragedia confusa. Así mismo, existen materias en donde es de suma importancia conocer paso a paso lo que está pasando y muchas veces, por cuestión de tiempo o de la misma modalidad (es decir, usar power point en lugar de un pizarrón), esto se pierde.
-- La organización de los tiempos es complicado. Como mencionaba anteriormente, todas las personas tienen responsabilidades diferentes dentro de sus hogares, por lo que el manejo del tiempo no puede generalizarse y muchas veces es difícil de estructurar para completar las actividades y aprender con formalidad los temas.
 
-A pesar de las miles de diferencias que pueden existir por persona, creo que es importante que cada uno/a de nosotros/as busque estrategias y un buen ambiente en donde podamos sentarnos y trabajar sin distracciones (lo cual puede ser casi imposible considerando que toda la familia, en la mayoría de los casos, está en casa con nosotros/as), todo esto con el fin de pasar el año escolar o terminar bien el semestre.
-Por estas razones, me he dado a la tarea de buscar y compartirles algunos de los mejores tips y/o herramientas para hacer de estos tiempos de estudio algo más ameno o más sencillo de sobrellevar.
+- La organización de los tiempos es complicada. Como mencionaba anteriormente, todas las personas tienen responsabilidades diferentes dentro de sus hogares, por lo que el manejo del tiempo no puede generalizarse y muchas veces es difícil de estructurar para completar las actividades y aprender con formalidad los temas.
+
+- Las materias prácticas pierden una gran parte de lo que son, pues no es lo mismo que el profesor enseñe cómo utilizar los materiales o realizar los procedimientos dentro de un ambiente que provee las herramientas y los medios, a que los alumnos lo repliquen desde sus casas.
+
+- Las tareas se acumulan tan rápido que muchas veces es difícil seguir el ritmo o si quiera organizarse para saber cuál atacar primero, lo que puede conducir a niveles de estrés peligrosos.
+
+A pesar de las miles de diferencias que pueden existir por persona, como estudiantes no nos queda de otra más que el buscar estrategias y herramientas que nos ayuden a manejar esta situación ya que, al final, nuestro objetivo es aprender y lograr completar el año escolar o el semestre en cuestión. Es por ello, que me di a la tarea de buscar y compartirles algunos de los mejores tips (desde mi perspectiva) y/o herramientas para hacer de estos tiempos de estudio algo más ameno o más sencillo de sobrellevar sin perecer en el intento.
