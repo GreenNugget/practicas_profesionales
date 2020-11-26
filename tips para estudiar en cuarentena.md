@@ -10,7 +10,7 @@ Como lo mencionaba hace un párrafo, el comprender cuáles son las necesidades d
 
 A pesar de lo bonito que suena el ajuste que podría tener el sistema educativo, creo que también queda claro que esto no es algo que deba decidirse a la ligera, ya que debe implicar muchísimas cosas que nosotros/as, como estudiantes, desconocemos. Hay miles de situaciones diferentes que deben tomarse en cuenta y, más allá de eso, miles de complicaciones nuevas que podrían surgir, pero bueno, soñar no cuesta nada en un mundo que cambió por completo de la noche a la mañana...literalmente...
 
-Para conocer un poco más sobre las necesidades y las perspectivas de los estudiantes, consulte: [Sub-Artículo: El punto de vista de los estudiantes](https://github.com/GreenNugget/practicas_profesionales/blob/master/tecnolog%C3%ADa%20y%20covid.md)
+Para conocer un poco más sobre las necesidades y las perspectivas de los estudiantes, consulte: [Sub-Artículo: El punto de vista de los estudiantes](https://github.com/GreenNugget/practicas_profesionales/blob/master/sub-articulos/punto%20de%20vista%20de%20los%20estudiantes.md)
 
 ## Algunos Pro-Tips
 
