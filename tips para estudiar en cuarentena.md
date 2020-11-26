@@ -10,26 +10,6 @@ Como lo mencionaba hace un párrafo, el comprender cuáles son las necesidades d
 
 A pesar de lo bonito que suena el ajuste que podría tener el sistema educativo, creo que también queda claro que esto no es algo que deba decidirse a la ligera, ya que debe implicar muchísimas cosas que nosotros/as, como estudiantes, desconocemos. Hay miles de situaciones diferentes que deben tomarse en cuenta y, más allá de eso, miles de complicaciones nuevas que podrían surgir, pero bueno, soñar no cuesta nada en un mundo que cambió por completo de la noche a la mañana...literalmente...
 
-## ¿Cómo lo están viviendo los estudiantes?
+Para conocer un poco más sobre las necesidades y las perspectivas de los estudiantes, consulte: [Sub-Artículo: El punto de vista de los estudiantes](https://github.com/GreenNugget/practicas_profesionales/blob/master/tecnolog%C3%ADa%20y%20covid.md)
 
-Los cambios que ha experimentado la comunidad estudiantil han variado de acuerdo a las carreras, sin embargo, considero que podemos hallar un patrón dentro de dichas diferencias que nos permite ver los problemas principales de tomar clases en línea. Así pues, me tomé la molestia de recopilar un par de testimonios de estudiantes de diferentes carreras y universidades.
-
-> Lo más difícil ha sido la toma de notas, los profes usan diapos que pasan súper rápido, y en la facultad hacían los desarrollos en la pizarra y todos lo hacíamos juntos. Entonces ahora van tan rápido que no da ni chance de escribir jajaja y los ejercicios igual lo resuelven en ppt y no lo hacen paso por paso, y se pierden muchas cosas 😞
-> -Estudiante de Ingeniería Física.
-
-> Lo más complicado para mí de tomar las clases en línea es en la materia de patronaje, a mí me cuesta mucho entenderlo y pues en la costura no es lo mismo que estar en taller y que el maestro te explique y te muestre, entonces con esta nueva normalidad se me complica bastante, también en las otras materias pues las tareas a veces no se logran entender, todos tenemos dudas y luego quedamos peor, entonces pues por ese lado sí se extraña estar en presencial, también de que a veces no llegan a ser considerados con las otras materias y pues en ocasiones hay más exceso de trabajos entonces sí está muy muy complicado sobretodo que nosotros somos más de práctica y también extraño el tiempo con mis amigos y todo eso.
-> -Estudiante de Diseño de Modas.
-
-> Me siento como yendo a la deriva. Siento como si no estuviese tomando clases en realidad y me cuesta organizar mi tiempo también.
-> -Estudiante de Ingeniería de Software.
-
-De esta manera, yo considero que los problemas principales pueden aguparse como sigue:
-- Tomar apuntes no es lo mismo, pues las clases en línea pueden ser más apresuradas que antes, de modo que mantener el ritmo de la clase a la vez que se realizan apuntes puede resultar en una tragedia confusa. Así mismo, existen materias en donde es de suma importancia conocer paso a paso lo que está pasando y muchas veces, por cuestión de tiempo o de la misma modalidad (es decir, usar power point en lugar de un pizarrón), esto se pierde.
-
-- La organización de los tiempos es complicada. Como mencionaba anteriormente, todas las personas tienen responsabilidades diferentes dentro de sus hogares, por lo que el manejo del tiempo no puede generalizarse y muchas veces es difícil de estructurar para completar las actividades y aprender con formalidad los temas.
-
-- Las materias prácticas pierden una gran parte de lo que son, pues no es lo mismo que el profesor enseñe cómo utilizar los materiales o realizar los procedimientos dentro de un ambiente que provee las herramientas y los medios, a que los alumnos lo repliquen desde sus casas.
-
-- Las tareas se acumulan tan rápido que muchas veces es difícil seguir el ritmo o si quiera organizarse para saber cuál atacar primero, lo que puede conducir a niveles de estrés peligrosos.
-
-A pesar de las miles de diferencias que pueden existir por persona, como estudiantes no nos queda de otra más que el buscar estrategias y herramientas que nos ayuden a manejar esta situación ya que, al final, nuestro objetivo es aprender y lograr completar el año escolar o el semestre en cuestión. Es por ello, que me di a la tarea de buscar y compartirles algunos de los mejores tips (desde mi perspectiva) y/o herramientas para hacer de estos tiempos de estudio algo más ameno o más sencillo de sobrellevar sin perecer en el intento.
+## Algunos
