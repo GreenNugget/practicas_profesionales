@@ -15,7 +15,7 @@ Los cambios que ha experimentado la comunidad estudiantil han variado de acuerdo
 > -Estudiante de Derecho.
 
 > Algo que he notado que es muy complicado, bueno al menos para mí, es la falta de un espacio designado para tomar clases, es súper complicado tomar clases cuando toda tu familia está pasando o interrumpiendo cada momento, súmale a eso que tengo 4 perritas, es muy difícil. Ahora, por parte de mis maestros, algunos explican muy mal, o sea, si tienes dudas y preguntas te confunden aún más y pues es mejor ya ni preguntar (le pregunto a Google), igual la falta de formalización, por así decirlo, de las adas, hay maestros que no explican bien el Ada, en las instrucciones dice una cosa y cuando vas a presentar el trabajo salen con que eso no se pidió o te piden cosas que no estaban en las instrucciones, y todos esos "detalles" influyen en tu calificación. Otra cosa es el Internet que falla o en mi caso que es muy común que se vaya la luz en mi casa.
-> -Estudiante de 
+> **-Estudiante de Administración
 
 De esta manera, yo considero que los problemas principales pueden aguparse de la siguiente manera:
 - **Tomar apuntes no es lo mismo.**. Las clases en línea tienen puntos a favor y en contra, pero sin duda uno de los mayores problemas es el tomar apuntes, ya que las clases en línea pueden ser más apresuradas de lo que eran de manera presencial y es difícil mantener el ritmo de aprender mientras apuntas lo más rápido posible. Así mismo, existen materias en donde es de suma importancia conocer paso a paso lo que está pasando y muchas veces, por cuestiones de tiempo o de la misma modalidad (es decir, usar power point en lugar de un pizarrón), esto se pierde.
